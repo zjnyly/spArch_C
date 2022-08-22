@@ -14,6 +14,8 @@ https://sparch.mit.edu/
 ### Notice:
 This is just C implementation of the hardware architechture, so can't achieve hardware level parallelism, thus can't hide memory delay.
 
+Hard to turn into HDL
+
 ```
 inner product
 Total time:0.063ms
