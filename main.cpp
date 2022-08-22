@@ -42,9 +42,4 @@ int main()
 	cout<<"Total time:"<<endtime*1000<<"ms"<<endl;	
     
     showMat(matC, I, K);
-
-
-    // showMat(matA, I, J);
-    // showMat(matB, J, K);
-    // showMat(matC, I, K);
 }
